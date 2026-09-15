@@ -1,3 +1,16 @@
-while True:
-    string=input("enter the string:")
-    print(string)
+# while True:
+#     string=input("enter the string:")
+#     print(string)
+
+correct_pass = "some_pass"
+
+not_found = True
+
+while not_found:
+
+    passw = input("Enter the pass: ")
+
+    if passw == correct_pass:
+        not_found = False
+
+print("Correct password")
