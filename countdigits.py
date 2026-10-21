@@ -7,5 +7,6 @@ while n > 0:
 
 for i in range(10):
     if freq[i] == 0:
-        print(f"{i} not found")
-    print(freq[i],end=" ")
+        print(f"{i} equals to zero")
+    else:
+        print(f"{i}={freq[i]}")
