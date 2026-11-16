@@ -1,3 +1,5 @@
+# Print names longer than 5 characters. 
+
 f=open("students.txt","r")
 name=f.readline()
 for name in f:
