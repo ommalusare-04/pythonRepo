@@ -5,5 +5,6 @@ try:
         print(result)
     except (ValueError,ZeroDivisionError) as e:
         print("error",e)
+        
 finally:
     print("code executed")
