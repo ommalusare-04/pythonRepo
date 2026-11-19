@@ -22,5 +22,7 @@ else:
     print(f"Name : {name}")
     print(f"Marks : {marks}")
     print(f"Grades : {grade}")
+finally:
+    print("Results Displayed")
 
         
