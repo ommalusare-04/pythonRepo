@@ -1,4 +1,3 @@
-
 while True:
     try:
         a = int(input("Enter the first number: "))
