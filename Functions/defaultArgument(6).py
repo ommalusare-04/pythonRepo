@@ -6,4 +6,4 @@ def student(name, course="MCA"):
 
 student("Om")
 student("Rahul", "MBA")
-# Logic: If no course is provided, the default "MCA" is used.
+# wLogic: If no course is provided, the default "MCA" is used.
