@@ -1,0 +1,4 @@
+# 1. Display current date and time
+# import datetime as d
+# curr=d.datetime.now()
+# print(curr)
