@@ -1,5 +1,5 @@
 try:
-    f = open("students.txt", "r")
+    f = open("student.txt", "r")
     data = f.read()
     print(data)
 

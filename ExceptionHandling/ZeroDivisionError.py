@@ -11,5 +11,5 @@ try:
 #     print("invalid input")
 
 except ZeroDivisionError as e:
-    print("error:",e)
+    print(f"error:{e}")
 
